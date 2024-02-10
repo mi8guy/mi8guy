@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mi8guy
+- 👋 Hi, I’m Viraj -- @mi8guy
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently brushing up my web dev skills
 - 💞️ I’m looking to get a job in Software Development domain.
